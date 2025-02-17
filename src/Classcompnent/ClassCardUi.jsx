@@ -16,7 +16,7 @@ class ClassCardUi extends Component {
     }
 }
 
-export default ClassCardUi
+export default ClassCardUi  
 
 
 
